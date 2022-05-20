@@ -1,0 +1,11 @@
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.FrmSS.resources
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
